@@ -1,0 +1,21 @@
+{
+  "name": "toto-macau",
+  "main": "./lib/toto-macau",
+  "version": "0.3.9",
+  "description": "Toto Macau Prediksi Bocoran Keluaran Angka togel Hari ini Toto macaupools 2d 3d 4d 5d 6d Hadiah 4digit 10jt Terbesar Bandar Lotre Togel toto resmi no.1 indonesia tertua di dunia toto togel",
+  "keywords": [
+    "totomacau",
+    "toto macau",
+    "togel macau",
+    "prediksi macau"
+  ],
+  "activationCommands": {
+    "atom-workspace": "toto-macau:toggle"
+  },
+  "repository": "https://github.com/jalanroma/toto-macau",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle toto-macau",
+        "command": "toto-macau:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "toto-macau",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "toto-macau:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
